@@ -8,15 +8,15 @@ https://google-docs-react-js.vercel.app/
 
 ## Home Page
 
-![Home](/Screenshots/home.png)
+![Home](/Screenshots/home.PNG)
 
 ## Document Page
 
-![Explore](/Screenshots/document.png)
+![Explore](/Screenshots/document.PNG)
 
 ## Login Page
 
-![Login](/Screenshots/login.png)
+![Login](/Screenshots/login.PNG)
 
 ## Tech Stack
 
